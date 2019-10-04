@@ -102,4 +102,8 @@ fastcall22
 
 slicer4ever [](https://github.com/slicer4ever)
  + Pony emotes module
+ 
+ markypooch (a_man_duh)
+ + isOpen
+ + .activity/discordgrapher integration
 
